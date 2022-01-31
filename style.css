@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.a1{
+
+    
+    /* color: lightgreen; */
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Quintessential', cursive;
+    color: white;
+}
+.li{
+
+    display: inline-block;
+
+    color: white;
+    
+}
+.head{
+
+    height: 50px;
+    background-color:rgb(21, 2, 192);
+    color: white;
+    padding-top: 20px;
+}
+.main{
+
+    font-family: 'Supermercado One', cursive;
+    padding-top: 25px;
+    height: 70vh;
+    background-color: blueviolet;
+}
+.footer{
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+}
